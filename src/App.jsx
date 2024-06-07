@@ -11,6 +11,7 @@ import D from "./components/d.png"
 import WhiteBack from "./components/whiteback.png"; // Import the white version of the image
 
 
+
 const colors = [
   "#FFA182", "#FFB399", "#FF33FF", "#FFFF99", "#00B3E6", "#FFD876",
   "#3366E6", "#999966", "#99FF99", "#B34D4D", "#C1E762", "#809900",
